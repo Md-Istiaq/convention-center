@@ -38,3 +38,15 @@
   .wedding-plus{
       background-color: purple;
   }
+  .footer{
+      background-color: black;
+      color: white;
+  }
+  .app{
+        height: 50px;
+        width: 135px;
+  }
+  .link{
+        text-decoration: none;
+        color: white;
+  }
