@@ -1,0 +1,37 @@
+.book-now-btn {
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 164px;
+    height: 44px;
+  }
+  .book-now-button {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #519bb4;
+  }
+  
+  .book-now-button:hover {
+    background-color: #008CBA;
+    color: white;
+  }
+  .heading{
+      color: black;
+      font-size: 48px;
+      font-weight: 700;
+      line-height: 58px;
+  }
+  .paragraph{
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    color: black;
+  }
